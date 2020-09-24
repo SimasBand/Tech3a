@@ -1,0 +1,12 @@
+C:\Users\Simas\source\repos\Tech3\Tech3\obj\Debug\netcoreapp3.1\Tech3.AssemblyInfoInputs.cache
+C:\Users\Simas\source\repos\Tech3\Tech3\obj\Debug\netcoreapp3.1\Tech3.AssemblyInfo.cs
+C:\Users\Simas\source\repos\Tech3\Tech3\obj\Debug\netcoreapp3.1\Tech3.csproj.CoreCompileInputs.cache
+C:\Users\Simas\source\repos\Tech3\Tech3\bin\Debug\netcoreapp3.1\Tech3.exe
+C:\Users\Simas\source\repos\Tech3\Tech3\bin\Debug\netcoreapp3.1\Tech3.deps.json
+C:\Users\Simas\source\repos\Tech3\Tech3\bin\Debug\netcoreapp3.1\Tech3.runtimeconfig.json
+C:\Users\Simas\source\repos\Tech3\Tech3\bin\Debug\netcoreapp3.1\Tech3.runtimeconfig.dev.json
+C:\Users\Simas\source\repos\Tech3\Tech3\bin\Debug\netcoreapp3.1\Tech3.dll
+C:\Users\Simas\source\repos\Tech3\Tech3\bin\Debug\netcoreapp3.1\Tech3.pdb
+C:\Users\Simas\source\repos\Tech3\Tech3\obj\Debug\netcoreapp3.1\Tech3.dll
+C:\Users\Simas\source\repos\Tech3\Tech3\obj\Debug\netcoreapp3.1\Tech3.pdb
+C:\Users\Simas\source\repos\Tech3\Tech3\obj\Debug\netcoreapp3.1\Tech3.genruntimeconfig.cache
